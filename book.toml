@@ -1,0 +1,6 @@
+[book]
+title = "EasyRooch"
+authors = ["baicaiyihao"]
+language = "zh"
+multilingual = false
+src = "src"
