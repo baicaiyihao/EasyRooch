@@ -4,7 +4,7 @@
 - [Rooch开发入门](./rooch_start.md)
   - [Move快速入门](./rooch_start/move_quick_start.md)
   - [搭建开发环境](./rooch_start/setup.md)
-    - [Linux](./rooch_start/setup/Liunx.md)
+    - [Linux](./rooch_start/setup/Linux.md)
     - [MacOS](./rooch_start/setup/MacOS.md)
   - [Rooch Cli常用命令](./rooch_start/Roochcli.md)
     - [rooch init](./rooch_start/roochcli/rooch_init.md)
