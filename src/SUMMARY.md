@@ -6,11 +6,13 @@
   - [搭建开发环境](./rooch_start/setup.md)
     - [Linux](./rooch_start/setup/Linux.md)
     - [MacOS](./rooch_start/setup/MacOS.md)
+  - [领取Rgas](./rooch_start/faucet.md)
   - [Rooch Cli常用命令](./rooch_start/Roochcli.md)
     - [rooch init](./rooch_start/roochcli/rooch_init.md)
     - [rooch env](./rooch_start/roochcli/rooch_env.md)
     - [rooch account](./rooch_start/roochcli/rooch_account.md)
     - [rooch server](./rooch_start/roochcli/rooch_server.md)
+    - [rooch move](./rooch_start/roochcli/rooch_move.md)
 
   - [编写第一个Rooch智能合约](./rooch_start/first_contract.md)
   - [调用和测试合约](./rooch_start/test_contract.md)
