@@ -13,7 +13,7 @@
     - [rooch account](./rooch_start/roochcli/rooch_account.md)
     - [rooch server](./rooch_start/roochcli/rooch_server.md)
     - [rooch move](./rooch_start/roochcli/rooch_move.md)
-
+    - [rooch state](./rooch_start/roochcli/rooch_state.md)
   - [编写第一个Rooch智能合约](./rooch_start/first_contract.md)
   - [调用和测试合约](./rooch_start/test_contract.md)
   <!-- - [清单文件与模块](./rooch_start/manifests.md)
